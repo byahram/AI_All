@@ -39,3 +39,8 @@ htmlcov/
 .env
 .env.*
 pip-wheel-metadata/
+
+# NLP large datasets and platform-specific runtime
+KoreaIT/09_NLP/data/aclImdb/
+KoreaIT/09_NLP/data/text8.txt
+KoreaIT/09_NLP/jdk-11.0.10-win64.zip
