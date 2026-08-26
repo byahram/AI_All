@@ -1,0 +1,13 @@
+beautifulsoup4
+Flask
+ipykernel
+jupyterlab
+lxml
+matplotlib
+numpy
+openpyxl
+pandas
+requests
+seaborn
+selenium
+xmltodict
