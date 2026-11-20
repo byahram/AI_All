@@ -44,3 +44,9 @@ pip-wheel-metadata/
 KoreaIT/09_NLP/data/aclImdb/
 KoreaIT/09_NLP/data/text8.txt
 KoreaIT/09_NLP/jdk-11.0.10-win64.zip
+
+# 05_DL assets pending redistribution review
+/05_DL/image/**
+/05_DL/data/**
+/05_DL/best-cnn-model.keras
+/05_DL/DL_포켓몬배틀.xlsx
