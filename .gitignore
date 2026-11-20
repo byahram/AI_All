@@ -61,3 +61,12 @@ KoreaIT/09_NLP/jdk-11.0.10-win64.zip
 /06_NLP/bert_kor_nsmc/
 /06_NLP/model/
 /06_NLP/checkpoints/
+
+# 02_Pandas, 03_DA and 04_ML duplicate ZIP backups
+/02_Pandas/data/data.zip
+/02_Pandas/data/데이터입출력.zip
+/03_DA/data/데이터분석_data.zip
+/03_DA/data/스타벅스_서울데이터.zip
+/03_DA/data/외국인관광객_실습데이터.zip
+/04_ML/data/bike.zip
+/04_ML/image/ML_전체이미지.zip
