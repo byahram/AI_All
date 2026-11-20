@@ -1,0 +1,12 @@
+모델 생성 후 gobu82@naver.com 으로
+코드파일과 테스트데이터에 대한 mean_squared_error 보내기
+
+코드파일(.ipynb) : 모델 훈련과정, 평가과정 확인하기 위함
+
+mean_squared_error : 테스트데이터에 대한 평가결과
+
+평가 기준 : mean_squared_error
+
+마지막 제출일(6월 24일)까지 mse가 가장 낮은 3명은 스타벅스 쿠폰(브랜드 변경 가능)
+
+중복 제출 가능
