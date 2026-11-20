@@ -50,3 +50,14 @@ KoreaIT/09_NLP/jdk-11.0.10-win64.zip
 /05_DL/data/**
 /05_DL/best-cnn-model.keras
 /05_DL/DL_포켓몬배틀.xlsx
+
+# 06_NLP assets pending redistribution review and generated artifacts
+/06_NLP/data/
+/06_NLP/image/
+/06_NLP/jdk-11.0.10-win64.zip
+/06_NLP/nsmc_tokenizing.csv
+/06_NLP/bpe/
+/06_NLP/wordpiece/
+/06_NLP/bert_kor_nsmc/
+/06_NLP/model/
+/06_NLP/checkpoints/
